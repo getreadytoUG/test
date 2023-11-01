@@ -6,4 +6,4 @@
 - etc.
 
 ### 개발한 사이트 보러 가기
-[개발한 사이트](https://wnsvy1237.dothome.co.kr)
+[개발한 사이트](http://wnsvy1237.dothome.co.kr)
